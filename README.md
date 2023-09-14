@@ -1,5 +1,5 @@
-국비지원프로그램 수료하면서 작성한 페이지 <br>
-1차 프로젝트 끝나고 2차 진행하면서 제작 <br>
+<img src="https://velog.velcdn.com/images/idgo2002/post/f344fb5a-9d1e-4475-90a4-44fa6b1a1861/image.png">
+kic project
 개발환경 및 언어 <br>
 Oracle <br>
 Tomcat 9.0v <br>
