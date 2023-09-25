@@ -37,10 +37,10 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 	);
 	rss.render();
 
-    
+    /* githun 관련 console창 에러로 잠궈두기 */
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar("#github-graph", "IonicaBizau", { responsive: true });
+    /* new GitHubCalendar("#github-graph", "IonicaBizau", { responsive: true });*/
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "mdo", selector: "#ghfeed" });
+    /* GitHubActivity.feed({ username: "mdo", selector: "#ghfeed" });*/
